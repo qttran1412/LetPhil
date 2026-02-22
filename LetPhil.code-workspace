@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../VSC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LetPhil"
+	}
+}
